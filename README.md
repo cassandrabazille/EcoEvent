@@ -55,5 +55,4 @@ J’ai réalisé ce projet de création d’application iOS en équipe dans le c
 - **Choix :** Bouton Contact (inactif)
 - **Panier :** Symbole « Poubelle » inactif
 
-## Capture vidéo
-Vous retrouverez ci-dessous la capture vidéo du projet ainsi que son cahier des charges.
+
